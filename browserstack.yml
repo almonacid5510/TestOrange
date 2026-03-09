@@ -1,0 +1,17 @@
+userName: juanalmonacid_3cF07X
+accessKey: ucR7qGsyknAKphLA47DE
+
+framework: serenity
+
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+
+browserstackLocal: false
+buildName: OrangeHRM Serenity Build
+projectName: Prueba Davivienda
+debug: true
+networkLogs: true
+video: true
