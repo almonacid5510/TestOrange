@@ -1,0 +1,3 @@
+# Automatización OrangeHRM
+
+Este proyecto implementa una automatización end-to-end de la aplicación OrangeHRM utilizando Serenity BDD, Selenium WebDriver, Cucumber y Maven con Java 17. La prueba automatiza el flujo de login como administrador, navegación al módulo PIM, creación de un nuevo empleado con nombre, apellido y fotografía, y validación del empleado desde el módulo Directory. El proyecto sigue el patrón Page Object Model (POM) para organizar páginas, pasos y runner, y las pruebas se ejecutan con `mvn clean verify`, generando reportes de Serenity en `target/site/serenity`. Además, el framework está configurado para ejecutarse en la nube mediante BrowserStack para pruebas en navegadores reales.
