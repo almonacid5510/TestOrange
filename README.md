@@ -4,7 +4,7 @@ Solución completa de automatización de pruebas end-to-end para **OrangeHRM**, 
 
 ---
 
-## 🚀 Requerimientos Implementados
+## Requerimientos Implementados
 
 1. **Ejercicio 1 – Flujo ABM Completo en OrangeHRM**:
    - **Alta (Create)**: Creación de empleado con nombre, apellido y avatar en PIM, resolviendo automáticamente un ID único y validando la creación en UI (`EmployeeProfileLoaded`).
@@ -21,7 +21,7 @@ Solución completa de automatización de pruebas end-to-end para **OrangeHRM**, 
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 VM_Login_Bot/
@@ -55,7 +55,7 @@ VM_Login_Bot/
 
 ---
 
-## 💻 Comandos de Ejecución (`dotnet test`)
+## Comandos de Ejecución (`dotnet test`)
 
 ```powershell
 # Compilar la solución
